@@ -16,6 +16,6 @@ I am a **cognitive neuroscientist** turned **data scientist**. I like to look at
 
 ### 🤝 Get in touch!
 
-📫 **silvia.formica91@gmail.com**
-
+📫 **silvia.formica91@gmail.com**  
 💼 www.linkedin.com/in/silvia-formica-76b03a123
+
