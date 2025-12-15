@@ -1,8 +1,6 @@
-# Hey! I'm Silvia 
+# Hey! I'm Silvia 😊
 
-
-I am a **cognitive neuroscientist** turned **data scientist**. I like to look at data to understand how the world goes.
-
+I am a **cognitive neuroscientist** turned **data scientist**. I like to look at data to understand how the world goes! 🌍
 
 ---
 
@@ -17,4 +15,4 @@ I am a **cognitive neuroscientist** turned **data scientist**. I like to look at
 ## 🤝 Get in touch!
 
 📫 **silvia.formica91@gmail.com**
-![alt text](image-2.png) www.linkedin.com/in/silvia-formica-76b03a123
+💼 www.linkedin.com/in/silvia-formica-76b03a123
